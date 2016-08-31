@@ -1,0 +1,34 @@
+bool Bool BOOLEAN bOOl
+BREAK break class Double double
+else IF ExTends extends for For()
+implements implement int Int
+inter face interface newArray
+new array newarray println print
+readln Read return; string String*
+//void this whole line
+void while true || false
+_id I_d I123d ifintvoid
+if(23void
+0 1 001 123 472
+0x12 0X13a5F 0x
+8 012 0x0 0X12aE 0xae3f 0Xh345
+.12 0.12 12. 12.0
+12.2E+2 .12E+2 
+12.E+2 002.2E002
+"This is" "a" "test to see" if this "works".
+true false True False T F
++ ++ - -- * ** / // test
+< <+* <= =<
+> >-/ >= =>
+== != =! =
+&& & || | &| &&|| 
+; ;; , ,, . .. ;,.
+( ) () )(
+[ ] [] ][
+{ } {} }{
+/* none of this
+/*should /
+display *
+or have *
+a token */ "this should display" */
+
